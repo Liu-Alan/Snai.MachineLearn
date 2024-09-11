@@ -1,2 +1,2 @@
 # Snai.MachineLearn
-machine learning
+machine learning 机器学习  
